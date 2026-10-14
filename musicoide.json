@@ -1,9 +1,53 @@
 [
     {
-        "id": "1",
+        "title": "Goji",
+        "artist": "Ran The Man",
+        "album": "Beachwalk",
+        "year": "2021",
+        "genre": "Deep House",
+        "duration": "3:20",
+        "file": "Audio/Goji.mp3",
+        "portada": "\\Portadas\\Goji.jpg"
+    },
+    {
         "title": "If Only i Was a Poet (SLCT Remix) (Instrumental)",
         "artist": "Staffan Carlén",
-        
-
+        "album": "Epademic Re:Sound",
+        "year": "2021",
+        "genre": "Deep House",
+        "duration": "4:36",
+        "file": "Audio/IfOnlyIWasAPoet(SLCTRemix).mp3",
+        "portada": "\\Portadas\\IOIWAP.png"
+    },
+    {
+        "title": "Midnight Wicked",
+        "artist": "Beautiful Minds",
+        "album": "Second Soul / Midnight wicked",
+        "year": "2022",
+        "genre": "Deep House",
+        "duration": "3:57",
+        "file": "Audio/MidnightWicked.mp3",
+        "portada": "\\Portadas\\MidnightWicked.jpg"
+    },
+    {
+        "title": "Storm Trap",
+        "artist": "Giants' Nest",
+        "album": "Storm Trap - Single",
+        "year": "2022",
+        "genre": "Deep House",
+        "duration": "3:52",
+        "file": "Audio/StormTrap.mp3",
+        "portada": "\\Portadas\\StormTrap.jpg"
+    },
+    {
+        "title": "Asha",
+        "artist": "Valante",
+        "album": "Asha - Single",
+        "year": "2022",
+        "genre": "Deep House",
+        "duration": "3:40",
+        "file": "Audio/Asha.mp3",
+        "portada": "\\Portadas\\Asha.jpg"
     }
+
 ]
